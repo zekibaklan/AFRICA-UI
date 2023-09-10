@@ -3,7 +3,7 @@
 # AFRICA
 
 
-In this module, i develop to a colourful XyloPhone app.Its so funny.
+
 
 ## What i used
 
